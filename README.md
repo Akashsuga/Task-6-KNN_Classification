@@ -8,7 +8,7 @@ This project implements the K-Nearest Neighbors (KNN) algorithm to classify Iris
 ## Repository Structure
 
 - **Iris.csv** — Original dataset
-- **task_6_knn_classifier.py** — Python script for K-Nearest Neighbors (KNN) Classification on Iris Dataset
+- **task_6_knn_classifier_iris.py** — Python script for K-Nearest Neighbors (KNN) Classification on Iris Dataset
 - **Visual Outputs** — Folder containing all visual plots
 - **task 6.pdf** — Given task
 - **README.md** — This documentation
