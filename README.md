@@ -5,7 +5,15 @@
 This project implements the K-Nearest Neighbors (KNN) algorithm to classify Iris species using the classic Iris dataset. The workflow includes data preprocessing, model training, hyperparameter tuning, evaluation, and visualization of results including decision boundaries using PCA.
 
 ---
+## Repository Structure
 
+- **Iris.csv** — Original dataset
+- **task_6_knn_classifier.py** — Python script for K-Nearest Neighbors (KNN) Classification on Iris Dataset
+- **Visual Outputs** — Folder containing all visual plots
+- **task 6.pdf** — Given task
+- **README.md** — This documentation
+
+---
 
 ## Project Content  
 - Data Loading and Preprocessing  
